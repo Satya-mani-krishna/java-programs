@@ -1,0 +1,13 @@
+class CreateObjectExample  
+{  
+//constructor of the class    
+CreateObjectExample()    
+{    
+System.out.println("Welcome to java");    
+}    
+public static void main(String[] args)   
+{    
+//creating an object using new keyword   
+CreateObjectExample obj = new CreateObjectExample();   
+}    
+}   
